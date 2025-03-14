@@ -1,2 +1,2 @@
 # atividade-github
-Descriçãoo do projeto ;) 
+Descrição do projeto ;) 
